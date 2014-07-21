@@ -20,7 +20,7 @@ from setuptools import setup
 from cosmo_cli import get_version
 
 setup(
-    name='cloudify-cli',
+    name='cloudify',
     version=get_version(),
     author='Gigaspaces',
     author_email='cosmo-admin@gigaspaces.com',
